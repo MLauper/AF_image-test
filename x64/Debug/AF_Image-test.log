@@ -1,0 +1,9 @@
+﻿  AFImagetest.cpp
+c:\program files\arrayfire\v3\include\af\exception.h(20): warning C4275: non dll-interface class 'std::exception' used as base for dll-interface class 'af::exception'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\vcruntime_exception.h(43): note: see declaration of 'std::exception'
+  c:\program files\arrayfire\v3\include\af\exception.h(19): note: see declaration of 'af::exception'
+c:\users\laupm4\documents\visual studio 2017\projects\af_image-test\afimagetest.cpp(30): warning C4838: conversion from 'double' to 'const float' requires a narrowing conversion
+c:\users\laupm4\documents\visual studio 2017\projects\af_image-test\afimagetest.cpp(30): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\laupm4\documents\visual studio 2017\projects\af_image-test\afimagetest.cpp(47): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  AF_Image-test.vcxproj -> C:\Users\laupm4\documents\visual studio 2017\Projects\AF_Image-test\x64\Debug\AF_Image-test.exe
+  AF_Image-test.vcxproj -> C:\Users\laupm4\documents\visual studio 2017\Projects\AF_Image-test\x64\Debug\AF_Image-test.pdb (Partial PDB)
